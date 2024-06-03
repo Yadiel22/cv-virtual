@@ -1,6 +1,6 @@
-# CV Virtual | ArturoCode
+# CV Virtual | RithleyPalpa
 
-#### Técnico Superior de Desarrollo de Aplicaciones Web y Sistemas y Redes
+#### Ingeniero de Sistemas e Informatica
 
 ### Es un currículum online en el que están estas secciones:
 
